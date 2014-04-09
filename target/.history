@@ -1,0 +1,13 @@
+exit
+compile
+gen-idea
+reload
+update
+gen-idea
+exit
+update
+gen-idea
+reload
+update
+gen-idea
+exit

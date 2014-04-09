@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: cascading.kryo:cascading.kryo:0.4.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/cascading.kryo/cascading.kryo/jars/cascading.kryo-0.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

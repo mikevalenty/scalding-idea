@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="SBT: org.mnode.ical4j:ical4j:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mnode.ical4j/ical4j/jars/ical4j-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mnode.ical4j/ical4j/bundles/ical4j-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mnode.ical4j/ical4j/docs/ical4j-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mnode.ical4j/ical4j/srcs/ical4j-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
