@@ -7,8 +7,8 @@ In a much larger project, optimizing imports takes almost a full minute. In this
 
 ### Steps to reproduce
 
-1) Edit `ExampleJob.scala` (change whitespace)
-2) Code > Optimize Imports...
+1. Edit `ExampleJob.scala` (change whitespace)
+2. Code > Optimize Imports...
 
 ### My machine
 
